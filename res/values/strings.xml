@@ -2,10 +2,16 @@
 <resources>
 
     <string name="app_name">WordWatch</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="button1">Instructions</string>
-	<string name="button2">Word Removal</string>
-	<string name="button3">Vocabulary Expansion</string>   
+   	<string name="TextView1">Give a speech!</string>
+   	<string name="TextView2">How many minutes will your speech be?</string>
+   	<string name="TextView3">What words should you not say?</string>
+   	<string name="TextView5">(separate words by spaces)</string>
+   	<string name="TextView4">Maximum number of times you can say the words:</string>
+   	<string name="submitButton">Start speech!</string>
+   	
+   	<string name ="targetTime"></string>
+   	<string name ="badWord"></string>
+   	<string name ="numberOfTimes"></string>
 
 </resources>
